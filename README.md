@@ -11,8 +11,8 @@ Redesigned e-commerce website for selling geotextile materials.
 
 ### Screenshots
 
-![New version](screenshot1.png)
-![Old version](old-screenshot.png)
+![New version](geo/hero.png)
+![Old version](geo/old.png)
 
 ### Live Demo
 https://bobidze.github.io/geotextile-website/
