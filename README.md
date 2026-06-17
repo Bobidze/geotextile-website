@@ -1,107 +1,64 @@
 # GeoTextile — Modern E-commerce Website
 
-**Redesigned responsive website for selling geotextile materials**.
+**Redesigned responsive website for selling geotextile materials**  
+*Real client project • Before → After transformation*
 
 ![Hero Banner](geo/hero.PNG)
 
 ---
 
-## 📋 About the Project
+## 📋 Overview
 
-This is a modern, fully responsive landing page / e-commerce website for a geotextile sales business.  
+A complete redesign of an existing geotextile sales website. The old site lost its domain, so I rebuilt it from scratch with a clean, modern, mobile-first design focused on better user experience, visual appeal and conversion.
 
-**Before → After**  
-The old website lost its domain. I completely redesigned it with a clean, professional and mobile-first design, improving UX, visual appeal and conversion potential.
+**Goal:** Turn a basic outdated site into a professional online presence that looks trustworthy and is easy to use on any device.
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Before & After
 
 ### New Design (2026)
-
-| Hero Section | Products | Advantages |
-|--------------|----------|------------|
+| Hero Section          | Products              | Advantages             |
+|-----------------------|-----------------------|------------------------|
 | ![Hero](geo/hero.PNG) | ![Products](geo/products.PNG) | ![Advantages](geo/advantages.PNG) |
 
-| Contacts | Footer | Where it's used |
-|----------|--------|-----------------|
-| ![Contacts](geo/contacts.PNG) | ![Footer](geo/footer.PNG) | ![Used](geo/used.PNG) |
+| Contacts                  | Footer                    | Where it's used           |
+|---------------------------|---------------------------|---------------------------|
+| ![Contacts](geo/contacts.PNG) | ![Footer](geo/footer.PNG) | ![Used](geo/used.PNG)     |
 
 ### Old Version (for comparison)
-
 ![Old Website](geo/old.PNG)
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features & Improvements
 
-- **Fully responsive** design (looks great on mobile, tablet and desktop)
+- Fully responsive design (mobile, tablet, desktop)
 - Modern, clean and professional UI/UX
-- Clear product presentation
-- Advantages section with visual icons
+- Clear product presentation with visual hierarchy
+- Dedicated advantages section with icons
 - Working contact form area
 - Fast loading and SEO-friendly structure
-- Ready for deployment (GitHub Pages, Vercel, Netlify, etc.)
+- Significantly improved visual appeal and perceived professionalism compared to the old version
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5 + CSS3 + JavaScript**
-- **Tailwind CSS** (or vanilla CSS — depending on final version)
-- Fully mobile-first approach
-- No frameworks bloat — lightweight and fast
+- HTML5 + CSS3 + JavaScript
+- Tailwind CSS
+- Mobile-first responsive approach
+- Lightweight and fast (no heavy frameworks)
 
-*(If you used Flutter Web — I can update this section accordingly)*
-
----
-
-## 🚀 Live Demo
-
-**Coming soon** — will be deployed on GitHub Pages / Vercel  
-(After deployment I will add the link here)
+> **Note:** This is a static website. Ready for deployment on GitHub Pages, Vercel, or Netlify.
 
 ---
 
-## 📁 Project Structure
+## 🚀 Getting Started
 
-geo/
-├── hero.PNG
-├── products.PNG
-├── advantages.PNG
-├── contacts.PNG
-├── footer.PNG
-├── used.PNG
-├── old.PNG
-└── README.
+Clone the repository and open `index.html` in your browser:
 
-
----
-
-## 🎯 Purpose
-
-- Portfolio project showcasing my frontend skills
-- Real client project (created for my uncle’s business)
-- Demonstrates ability to redesign and significantly improve an existing website
-
----
-
-## 👨‍💻 About Me
-
-Junior Flutter & Frontend Developer  
-Currently studying Computer Science at Shanghai Electric Power University (1st year).  
-Passionate about building beautiful and functional web & mobile applications.
-
-**Looking for freelance opportunities** — feel free to contact me!
-
----
-
-## 📬 Contact
-
-- Telegram: `@meowuchkin`
-- Email: `tarasyuk.nikita020206@gmail.com`
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
-
-*Made with ❤️ for a real business. Open to new projects and improvements.*
+```bash
+git clone https://github.com/Bobidze/geotextile-website.git
+cd geotextile-website
+# Open index.html in your browser
