@@ -1,7 +1,6 @@
 # GeoTextile — Modern E-commerce Website
 
-**Redesigned responsive website for selling geotextile materials**  
-Сайт для продажи геотекстиля — полный редизайн с нуля.
+**Redesigned responsive website for selling geotextile materials**.
 
 ![Hero Banner](geo/hero.PNG)
 
