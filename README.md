@@ -9,9 +9,9 @@
 
 ## 📋 Overview
 
-A complete redesign of an existing geotextile sales website. The old site lost its domain, so I rebuilt it from scratch with a clean, modern, mobile-first design focused on better user experience, visual appeal and conversion.
+This project is a complete redesign of an existing website for a geotextile sales business. The original site had lost its domain, so I rebuilt it from the ground up as a clean, modern, mobile-first landing page focused on professionalism, usability, and conversion.
 
-**Goal:** Turn a basic outdated site into a professional online presence that looks trustworthy and is easy to use on any device.
+**Objective:** Transform an outdated basic site into a trustworthy online presence that performs well on all devices and clearly presents products and benefits.
 
 ---
 
@@ -31,15 +31,15 @@ A complete redesign of an existing geotextile sales website. The old site lost i
 
 ---
 
-## ✨ Key Features & Improvements
+## ✨ Key Improvements & Features
 
-- Fully responsive design (mobile, tablet, desktop)
-- Modern, clean and professional UI/UX
-- Clear product presentation with visual hierarchy
+- Fully responsive and mobile-first design
+- Modern, clean, and professional UI/UX
+- Clear visual hierarchy for products and benefits
 - Dedicated advantages section with icons
-- Working contact form area
+- Functional contact form area
 - Fast loading and SEO-friendly structure
-- Significantly improved visual appeal and perceived professionalism compared to the old version
+- Significant improvement in visual appeal and perceived professionalism
 
 ---
 
@@ -47,10 +47,10 @@ A complete redesign of an existing geotextile sales website. The old site lost i
 
 - HTML5 + CSS3 + JavaScript
 - Tailwind CSS
-- Mobile-first responsive approach
-- Lightweight and fast (no heavy frameworks)
+- Mobile-first responsive development
+- Lightweight and performant (no unnecessary frameworks)
 
-> **Note:** This is a static website. Ready for deployment on GitHub Pages, Vercel, or Netlify.
+> Static website — ready for deployment on GitHub Pages, Vercel, or Netlify.
 
 ---
 
@@ -61,4 +61,34 @@ Clone the repository and open `index.html` in your browser:
 ```bash
 git clone https://github.com/Bobidze/geotextile-website.git
 cd geotextile-website
-# Open index.html in your browser
+# Open index.html in any browser
+```
+
+---
+
+## 🎯 Purpose
+
+- Real client project created for a family business
+- Demonstrates ability to take an existing website and deliver a major design and UX upgrade
+- Showcases frontend skills: responsive layouts, clean code, business-focused improvements
+- Strong addition to a portfolio for freelance and junior developer opportunities
+
+---
+
+## 👤 About the Author
+
+**Nikita Tarasyuk**  
+Junior Flutter & Frontend Developer  
+
+Computer Science student (1st year) at Shanghai Electric Power University.  
+Passionate about creating beautiful, functional web and mobile applications.
+
+- GitHub: [github.com/Bobidze](https://github.com/Bobidze)
+- Telegram: [@meowuchkin](https://t.me/meowuchkin)
+- Email: tarasyuk.nikita020206@gmail.com
+
+*Open to freelance opportunities and interesting projects.*
+
+---
+
+*Built with care for a real business. Always looking to create and improve.*
