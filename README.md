@@ -69,8 +69,6 @@ flutter pub get
 flutter run -d chrome
 
 # Build for production web
-git clone https://github.com/Bobidze/geotextile-website.git
-cd geotextile-website
 flutter build web
 ```
 
@@ -82,6 +80,20 @@ flutter build web
 - Demonstrates ability to deliver a full redesign using modern cross-platform technology (Flutter Web)
 - Showcases skills in responsive design, clean code, and business-oriented development
 - Strong portfolio piece for Flutter and frontend opportunities
+
+---
+
+## 🔒 License & Usage
+
+**Copyright © 2026 Nikita Tarasyuk. All rights reserved.**
+
+This project was developed as a real client redesign. The source code is shared publicly **for portfolio and educational purposes only**.
+
+Unauthorized copying, reproduction, modification, distribution, or commercial use of this project (or any substantial portion thereof) is strictly prohibited without prior written permission from the author.
+
+For licensing inquiries, please contact: tarasyuk.nikita020206@gmail.com
+
+See the [LICENSE](LICENSE) file for the full terms.
 
 ---
 
